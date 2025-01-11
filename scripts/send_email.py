@@ -8,7 +8,7 @@ import os
 import time
 
 # Chemins des fichiers
-excel_path = "\\Kaba_Bot_email-sender\data\Morroco\emails_batch_1.xlsx"
+excel_path = "\\Kaba_Bot_email-sender\\data\\email.xlsx"
 body_template_path = "\\Kaba_Bot_email-sender\\templates\\mail_CandidaturePFE.html"
 resume_path = "\\Kaba_Bot_email-sender\\docs\\Mon_CV.pdf"
 log_path = "\\Kaba_Bot_email-sender\\logs\\email_log.txt"
